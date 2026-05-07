@@ -1,3 +1,7 @@
+# Project-specific outputs
+output_annual/
+output_quarterly/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
