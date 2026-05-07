@@ -1,3 +1,6 @@
+# macOS
+.DS_Store
+
 # Project-specific outputs
 output_annual/
 output_quarterly/
